@@ -64,6 +64,7 @@ This project applies data science techniques to analyze and model the global COV
 
 - 📄 [Final Report (DOCS)](https://docs.google.com/document/d/1HNqglHqrP6lLyXBLDR_SqZWniqQS2yvx/edit?usp=sharing&ouid=113148552434962276424&rtpof=true&sd=true)
 - 📊 [Presentation Slides](https://docs.google.com/presentation/d/1Ytvy_qldbvgwkmOvQMg9c6XMVTmp6_8w/edit?usp=sharing&ouid=113148552434962276424&rtpof=true&sd=true)
+- > These resources were part of the final capstone submission, offering insights and visual summaries of the analysis.
 
 
 ## Author
