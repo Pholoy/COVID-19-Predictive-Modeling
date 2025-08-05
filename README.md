@@ -60,6 +60,12 @@ This project applies data science techniques to analyze and model the global COV
 - 🧾 Well-documented Jupyter notebooks
 - 📊 Presentation slides summarizing the findings
 
+## 📎 Additional Resources
+
+- 📄 [Final Report (PDF)](https://docs.google.com/document/d/1HNqglHqrP6lLyXBLDR_SqZWniqQS2yvx/edit?usp=sharing&ouid=113148552434962276424&rtpof=true&sd=true)
+- 📊 [Presentation Slides](https://docs.google.com/presentation/d/1Ytvy_qldbvgwkmOvQMg9c6XMVTmp6_8w/edit?usp=sharing&ouid=113148552434962276424&rtpof=true&sd=true)
+
+
 ## Author
 **Oyekola Oluwasegun Philips**  
 Cohort 2 Fellow, 3MTT Nigeria — Data Science Track  
