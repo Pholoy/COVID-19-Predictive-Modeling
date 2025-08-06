@@ -70,6 +70,6 @@ This project applies data science techniques to analyze and model the global COV
 ## Author
 **Oyekola Oluwasegun Philips**  
 Cohort 2 Fellow, 3MTT Nigeria — Data Science Track  
-📧 Email: pholoy01@gmail.com  
+📧 Email: poyekol@gmail.com  
 🔗 GitHub: [Pholoy](https://github.com/Pholoy)  
 🔗 LinkedIn: [poyekol](https://www.linkedin.com/in/poyekol)
